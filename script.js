@@ -6,16 +6,16 @@ const popupText = document.getElementById("popupText");
 
 const punishments = [
     {
-        title: "Funny Walk",
-        description: "Walk across the stage like a robot, penguin, or runway model."
+        title: "Make-ana",
+        description: "Make out with a helmet with a banana in side."
     },
     {
-        title: "Over-the-Top Thank You Speech",
-        description: "Give a fake award acceptance speech (Thank you Met Gala for inviting me tonight… I dedicate this to my fans…)"
+        title: "Post it!",
+        description: "Posta photo on you instagram on a pose decided by the organizers for atleast 2 days.`"
     },
     {
-        title: "Mystery Mocktail",
-        description: "Take a sip of the Met Gala’s exclusive (and slightly suspicious) concoction"
+        title: "Recreator",
+        description: "Recreate an Appaji's insta reel (will be decided by the organizers)."
     },
     {
         title: "Red Carpet Drama",
@@ -31,11 +31,11 @@ const punishments = [
     },
     {
         title: "Object of My Affection",
-        description: "Dramatically ask out a randomly chosen object."
+        description: "Dramatically ask out a randomly chosen object (Choosen by organizers)"
     },
     {
-        title: "AI Confessions",
-        description: "Read aloud a funny ChatGPT convo."
+        title: "Pole dance",
+        description: "Do  a pole dance with a human pole."
     },
     {
         title: "Hand-in-Hand Bond",
